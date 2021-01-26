@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    
+    background-color: aqua;
+    width: 90%;
+    margin: auto;
+    
+}
+.head{
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.main{
+    background-color: rgb(113, 186, 219);
+    width: 100%;
+    height: auto;
+    min-height: 80vh;;
+    
+}
+.footer{
+    width: 100%;
+    align-self: flex-end;
+    background-color: rgba(31, 29, 29, 0.856);
+    color: blanchedalmond;
+    
+}
+h2{
+    text-align: center;
+}
+
